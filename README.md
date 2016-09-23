@@ -1,8 +1,8 @@
-Name:
+Name: Ajinkya Chalke
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes, was able to successfully compile and run.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Yes, the unit test were completed successfully.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
